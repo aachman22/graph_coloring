@@ -6,7 +6,7 @@ OS - Linux <br>
 g++ installed
 
 ## To run:
-Open terminal in your local working dirrectory and type the code:
+Open terminal in your local working directory and type the code:
 ```
 g++ gtry2.cpp -lgraph
 
